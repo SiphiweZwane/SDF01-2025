@@ -67,7 +67,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SiphiweZwane)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SiphiweZwane)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Siphiwe-Zwane-86706a179?)  
 📧 Email: zwanekamabena01@gmail.com
 
 ---
