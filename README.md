@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Siphiwe Zwane
 
-Beginner Software Developer | 🚀 Excited to Learn, Build & Solve Problems.
+Beginner Software Developer | 🚀 Excited to Learn, Build & Solve Problems
 
 ---
 
